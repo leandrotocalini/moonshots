@@ -5,7 +5,7 @@
 Visual programming/coding puzzles for young children. No text, no typing - just drag & drop logic blocks to help a bunny solve puzzles.
 
 **Name:** Hopcode (hop + code)
-**Character:** Bunny (name TBD - Pip? Loop?)
+**Character:** Bun-E 🐰 (como Wall-E)
 
 ## Target
 
