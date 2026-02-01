@@ -1,38 +1,40 @@
-# Moonshots - Instrucciones
+# Moonshots - Instructions
 
-Repo para ideas de apps y productos. Pipeline: idea → propuesta → product → build.
+Repo for app and product ideas. Pipeline: idea → proposal → product → build.
 
-## Estructura
+**Language:** Always write in English, regardless of input language.
+
+## Structure
 
 ```
-topics/      # Ideas sueltas, tópicos que interesan
-proposals/   # Propuestas más elaboradas  
-products/    # Product docs listos para buildear
-archive/     # Ideas pausadas o descartadas
+topics/      # Raw ideas, interesting topics
+proposals/   # Elaborated proposals  
+products/    # Product docs ready to build
+archive/     # Paused or discarded ideas
 ```
 
-## Estados
+## Status
 
-Cada idea tiene un estado en el título:
-- 🌱 **Idea** - recién anotada
-- 🔍 **Explorando** - investigando
-- 📝 **Propuesta** - tiene propuesta escrita
-- 📋 **Product** - tiene product doc completo
-- 🚀 **Building** - tiene repo propio (link en el doc)
-- ❄️ **Pausado** - en hielo por ahora
-- ❌ **Descartado** - no va
+Each idea has a status in the title:
+- 🌱 **Idea** - just noted
+- 🔍 **Exploring** - researching
+- 📝 **Proposal** - has written proposal
+- 📋 **Product** - has complete product doc
+- 🚀 **Building** - has its own repo (link in doc)
+- ❄️ **Paused** - on ice for now
+- ❌ **Discarded** - not happening
 
 ## Workflow
 
-1. **Nueva idea** → crear archivo en `topics/` con template
-2. **Explorar** → investigar, anotar pensamientos
-3. **Propuesta** → si tiene potencial, mover a `proposals/` y elaborar
-4. **Product** → si cierra, mover a `products/` y escribir product doc completo
-5. **Build** → crear repo propio, linkear desde el product doc, marcar 🚀
+1. **New idea** → create file in `topics/` using template
+2. **Explore** → research, jot down thoughts
+3. **Proposal** → if promising, move to `proposals/` and elaborate
+4. **Product** → if it clicks, move to `products/` and write full product doc
+5. **Build** → create dedicated repo, link from product doc, mark 🚀
 
-## Convenciones
+## Conventions
 
-- Nombres de archivo: `kebab-case.md` (ej: `ai-fitness-coach.md`)
-- Un archivo por idea
-- Idioma: español o inglés, lo que fluya
-- No hay reglas estrictas, es un espacio para pensar
+- File names: `kebab-case.md` (e.g., `ai-fitness-coach.md`)
+- One file per idea
+- Language: **English only**
+- No strict rules, this is a space to think

@@ -1,26 +1,26 @@
-# 📝 [Nombre del producto]
+# 📝 [Product name]
 
-## Problema
-<!-- ¿Qué problema resuelve? ¿Para quién? -->
+## Problem
+<!-- What problem does it solve? For whom? -->
 
-## Solución propuesta
-<!-- ¿Cómo lo resolvemos? -->
+## Proposed solution
+<!-- How do we solve it? -->
 
-## Por qué nosotros / Por qué ahora
-<!-- ¿Qué ventaja tenemos? ¿Por qué es el momento? -->
+## Why us / Why now
+<!-- What advantage do we have? Why is this the moment? -->
 
-## MVP mínimo
-<!-- ¿Cuál es la versión más chica que valida la idea? -->
+## Minimum MVP
+<!-- What's the smallest version that validates the idea? -->
 
-## Preguntas abiertas
-<!-- ¿Qué necesitamos investigar/validar? -->
+## Open questions
+<!-- What do we need to research/validate? -->
 
-## Competencia / Alternativas
-<!-- ¿Qué existe hoy? ¿Por qué no alcanza? -->
+## Competition / Alternatives
+<!-- What exists today? Why isn't it enough? -->
 
-## Siguiente paso
-<!-- ¿Qué hacemos para avanzar? -->
+## Next step
+<!-- What do we do to move forward? -->
 
 ---
-*Creado: YYYY-MM-DD*
-*Estado: 📝 Propuesta*
+*Created: YYYY-MM-DD*
+*Status: 📝 Proposal*

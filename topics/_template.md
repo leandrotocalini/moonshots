@@ -1,13 +1,13 @@
-# 🌱 [Nombre de la idea]
+# 🌱 [Idea name]
 
-## ¿Qué?
-<!-- Una línea explicando la idea -->
+## What?
+<!-- One line explaining the idea -->
 
-## ¿Por qué me interesa?
-<!-- Qué te llama la atención de este tópico -->
+## Why does it interest me?
+<!-- What catches your attention about this topic -->
 
-## Notas sueltas
-<!-- Pensamientos, links, inspiración -->
+## Notes
+<!-- Thoughts, links, inspiration -->
 
 ---
-*Creado: YYYY-MM-DD*
+*Created: YYYY-MM-DD*

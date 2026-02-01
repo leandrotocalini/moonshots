@@ -1,43 +1,43 @@
-# 📋 [Nombre del producto]
+# 📋 [Product name]
 
 ## Vision
-<!-- Una oración que capture la esencia -->
+<!-- One sentence capturing the essence -->
 
-## Problema
-<!-- Problema específico, quién lo tiene, cuánto duele -->
+## Problem
+<!-- Specific problem, who has it, how much it hurts -->
 
-## Usuario objetivo
-<!-- Perfil concreto del usuario inicial -->
+## Target user
+<!-- Concrete profile of the initial user -->
 
-## Propuesta de valor
-<!-- ¿Qué ofrecemos? ¿Por qué es mejor? -->
+## Value proposition
+<!-- What do we offer? Why is it better? -->
 
-## Funcionalidades core (MVP)
-<!-- Lista priorizada de features mínimas -->
+## Core features (MVP)
+<!-- Prioritized list of minimum features -->
 
 1. 
 2. 
 3. 
 
-## Funcionalidades futuras
-<!-- Ideas para después del MVP -->
+## Future features
+<!-- Ideas for after MVP -->
 
-## Stack técnico
-<!-- Tecnologías propuestas -->
+## Tech stack
+<!-- Proposed technologies -->
 
-## Modelo de negocio
-<!-- ¿Cómo genera plata? (si aplica) -->
+## Business model
+<!-- How does it make money? (if applicable) -->
 
-## Métricas de éxito
-<!-- ¿Cómo sabemos si funciona? -->
+## Success metrics
+<!-- How do we know if it works? -->
 
-## Riesgos
-<!-- ¿Qué puede salir mal? -->
+## Risks
+<!-- What can go wrong? -->
 
-## Plan de acción
-<!-- Primeros pasos concretos -->
+## Action plan
+<!-- Concrete first steps -->
 
 ---
-*Creado: YYYY-MM-DD*
-*Estado: 📋 Product*
-*Repo: (cuando exista)*
+*Created: YYYY-MM-DD*
+*Status: 📋 Product*
+*Repo: (when it exists)*

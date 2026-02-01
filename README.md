@@ -1,33 +1,33 @@
 # 🚀 Moonshots
 
-Ideas de apps y productos. Algunas serán locuras, otras quizás se conviertan en algo real.
+App and product ideas. Some will be crazy, others might become something real.
 
 ## Pipeline
 
 ```
-💡 topics/     Ideas sueltas, tópicos que interesan
+💡 topics/     Raw ideas, interesting topics
       ↓
-📝 proposals/  Propuestas más elaboradas
+📝 proposals/  Elaborated proposals
       ↓
-📋 products/   Product docs listos para buildear
+📋 products/   Product docs ready to build
       ↓
-🚀 Repo        Código propio, a construir
+🚀 Repo        Own codebase, time to build
 ```
 
-## Ideas activas
+## Active ideas
 
-<!-- Actualizar con ideas en progreso -->
+<!-- Update with ideas in progress -->
 
-*Nada todavía... pero pronto* ✨
+*Nothing yet... but soon* ✨
 
-## Cómo contribuir
+## How to contribute
 
-1. Nueva idea → copiar `topics/_template.md`
-2. Explorar → investigar, anotar
-3. Si tiene potencial → mover a `proposals/`
-4. Si cierra → mover a `products/`
-5. Build time → crear repo, linkear, 🚀
+1. New idea → copy `topics/_template.md`
+2. Explore → research, take notes
+3. If promising → move to `proposals/`
+4. If it clicks → move to `products/`
+5. Build time → create repo, link it, 🚀
 
 ---
 
-*Ver [CLAUDE.md](CLAUDE.md) para instrucciones detalladas*
+*See [CLAUDE.md](CLAUDE.md) for detailed instructions*
