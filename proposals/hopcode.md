@@ -1,8 +1,11 @@
-# Kids Visual Coding
+# Hopcode 🐰
 
 ## Overview
 
-Visual programming/coding puzzles for young children. No text, no typing - just drag & drop logic blocks to solve puzzles.
+Visual programming/coding puzzles for young children. No text, no typing - just drag & drop logic blocks to help a bunny solve puzzles.
+
+**Name:** Hopcode (hop + code)
+**Character:** Bunny (name TBD - Pip? Loop?)
 
 ## Target
 
@@ -57,22 +60,12 @@ Kid programs a character to reach a goal using visual blocks. No reading require
 5. **Offline-first** - works on airplane, no account needed
 6. **Delightful animations** - character reacts, celebrates
 
-## Character/Theme Ideas
+## Character & Theme
 
-### Option A: Robot
-- Classic coding theme
-- Robot follows instructions literally
-- Factory/space setting
-
-### Option B: Animal/Creature
-- Friendlier, less "techy"
-- Help bunny find carrots
-- Garden/forest setting
-
-### Option C: Abstract
-- Geometric shapes
-- Minimalist Monument Valley style
-- No character, just the code
+**Character:** Cute bunny 🐰
+**Setting:** Garden/forest/meadow
+**Goal:** Help bunny collect carrots, reach home, solve puzzles
+**Vibe:** Friendly, encouraging, not "techy" - approachable for young kids
 
 ## Puzzle Structure
 
