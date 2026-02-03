@@ -1,4 +1,6 @@
-# 📝 Crypto HFT Bot
+# 🚀 Crypto HFT Bot
+
+> **Repo:** https://github.com/leandrotocalini/shifty
 
 High-frequency spot trading bot for Binance. Micro-trades exploiting short-term price movements and exchange inefficiencies.
 
