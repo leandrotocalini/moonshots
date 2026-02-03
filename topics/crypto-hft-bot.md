@@ -25,9 +25,9 @@ Headless high-frequency trading bot for crypto. Micro-trades on 15-minute timefr
 
 ## Decisions
 - **Exchange:** Binance ✅
+- **Market:** Spot (sin apalancamiento) ✅
 
 ## Open questions
-- Spot vs futures vs both?
 - Initial capital allocation?
 - Risk management: max drawdown, position sizing?
 - What signals/indicators? Pure price action? Order book? Funding rates?
