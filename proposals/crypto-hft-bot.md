@@ -137,9 +137,17 @@ crypto-hft-bot/
 - [ ] Monitor & adjust parameters
 
 ### M5 — Optimization
-- [ ] Backtest framework
-- [ ] Parameter tuning
+- [ ] Backtest framework with historical data
+- [ ] Parameter tuning (thresholds, timeframes, indicators)
+- [ ] A/B test different strategies
 - [ ] Scale up capital if profitable
+
+### M6 — Deploy to Fly.io
+- [ ] Dockerfile + fly.toml config
+- [ ] Secrets management (API keys)
+- [ ] Health checks & auto-restart
+- [ ] Logging to Fly.io dashboard
+- [ ] Optional: metrics endpoint
 
 ## Next Steps
 
