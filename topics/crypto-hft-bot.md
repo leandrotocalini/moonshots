@@ -1,4 +1,4 @@
-# 🌱 Crypto HFT Bot
+# 🔍 Crypto HFT Bot
 
 ## What?
 Headless high-frequency trading bot for crypto. Micro-trades on 15-minute timeframes, exploiting exchange inefficiencies for compounding small gains.
