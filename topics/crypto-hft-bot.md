@@ -23,8 +23,10 @@ Headless high-frequency trading bot for crypto. Micro-trades on 15-minute timefr
 3. Strong compounding
 4. Automation over emotion
 
+## Decisions
+- **Exchange:** Binance ✅
+
 ## Open questions
-- Which exchange(s)? Binance, Bybit, OKX?
 - Spot vs futures vs both?
 - Initial capital allocation?
 - Risk management: max drawdown, position sizing?
