@@ -26,6 +26,7 @@ Headless high-frequency trading bot for crypto. Micro-trades on 15-minute timefr
 ## Decisions
 - **Exchange:** Binance ✅
 - **Market:** Spot (sin apalancamiento) ✅
+- **Capital inicial:** $100-200 USD (usa todo el balance disponible) ✅
 
 ## Open questions
 - Initial capital allocation?
